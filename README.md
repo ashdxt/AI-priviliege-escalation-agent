@@ -5,3 +5,4 @@ unnamed ai privesc tool
 what is the agent designed to acchieve:
 designed to gain root access to a linux system (for now) where only user access is available , or atleast eliminating common vulnerabilities/misconfigurations, saving time for penetration testers  
 
+and if even that doesn't work it serves as a framework  and easily implement scripts 
