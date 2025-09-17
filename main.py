@@ -26,11 +26,13 @@ command_log = " list of all the commands ran so far: \n"
 
 
 def create_connection():    
+    #ADD SSH DETAILS HERE
+    
     #temporarily like this, can add user input,
-    user = 'oliver'
+    user = ''
     #IPv6 host addresses are incompatible with the host:port shorthand 
-    host = '10.10.11.80'
-    password = 'theEd1t0rTeam99'
+    host = ''
+    password = ''
 
     #establishes ssh connection
     #the capitcal c in connection is important
