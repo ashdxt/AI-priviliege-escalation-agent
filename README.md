@@ -7,4 +7,6 @@ designed to gain root access to a linux system (for now) where user access is av
 
 and if even that doesn't work it serves as a framework  and easily implement scripts/ things you want to check
 
-Work in progress
+WORK IN PROGRESS
+
+USE RESPONSIBLY
